@@ -5,7 +5,7 @@ const pkg = JSON.parse(readFileSync(new URL('../package.json', import.meta.url),
 
 describe('package metadata', () => {
   it('is published under the open-source scope', () => {
-    expect(pkg.name).toBe('@metrc-formul8-os/client');
+    expect(pkg.name).toBe('@metrc-manager-3000/client');
   });
   it('has no private registry config', () => {
     expect(pkg.publishConfig?.registry).toBeUndefined();
