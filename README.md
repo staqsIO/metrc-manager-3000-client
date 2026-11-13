@@ -1,20 +1,20 @@
-# @metrc-formul8-os/client
+# @metrc-manager-3000/client
 
 Zero-dependency TypeScript client for the [METRC](https://www.metrc.com) cannabis
 track-and-trace API. ESM + CJS, works in Node 22+ and edge runtimes.
 
-Part of [Metrc-Formul8-OS](https://github.com/staqsIO/metrc-formul8-os).
+Part of [METRC Manager 3000](https://github.com/staqsIO/metrc-manager-3000), formerly Metrc-Formul8-OS.
 
 ## Install
 
 ```bash
-npm install github:staqsIO/metrc-formul8-os-client
+npm install github:staqsIO/metrc-manager-3000-client
 ```
 
 ## Usage
 
 ```ts
-import { createMetrcClient } from '@metrc-formul8-os/client';
+import { createMetrcClient } from '@metrc-manager-3000/client';
 
 const metrc = createMetrcClient({
   stateCode: 'CO',
@@ -45,7 +45,7 @@ npm run build
 
 ## Contributors
 
-Created by [Staqs](https://github.com/staqsIO), [Formul8](https://github.com/F8ai) and [UMB Advisors](https://github.com/UMB-Advisors). See the [root repository](https://github.com/staqsIO/metrc-formul8-os#contributors) for details.
+Created by [Staqs](https://github.com/staqsIO), [Waev Tech](https://github.com/waevtech) and [UMB Advisors](https://github.com/UMB-Advisors). See the [root repository](https://github.com/staqsIO/metrc-manager-3000#contributors) for details.
 
 ## License
 
