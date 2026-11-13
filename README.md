@@ -3,7 +3,7 @@
 Zero-dependency TypeScript client for the [METRC](https://www.metrc.com) cannabis
 track-and-trace API. ESM + CJS, works in Node 22+ and edge runtimes.
 
-Part of [Metrc Manager 3000](https://github.com/staqsIO/metrc-manager-3000), formerly Metrc-Formul8-OS.
+Part of [METRC Manager 3000](https://github.com/staqsIO/metrc-manager-3000), formerly Metrc-Formul8-OS.
 
 ## Install
 

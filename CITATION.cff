@@ -1,7 +1,7 @@
 cff-version: 1.2.0
 message: "If you use this software, please cite it using the metadata in this file."
 type: software
-title: "Metrc Manager 3000 — Client"
+title: "METRC Manager 3000 — Client"
 license: MIT
 repository-code: "https://github.com/staqsIO/metrc-manager-3000-client"
 authors:
